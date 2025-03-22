@@ -16,6 +16,8 @@
                 <li><a href="about.php">Giới Thiệu</a></li>
                 <li><a href="contact.php">Liên Hệ</a></li>
                 <li><a href="login.php">Đăng Nhập</a></li>
+                <li><a href="login.php">Đăng Nhập</a></li>
+                
             </ul>
         </nav>
     </header>
